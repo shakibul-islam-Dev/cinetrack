@@ -42,7 +42,7 @@ Step 2: Navigate to the Project Directory
 Change your current working directory to the project folder:
 
 Bash
-cd cine_track
+cd cinetrack
 
 Step 3: Install Dependencies
 Run the following command to download and install all the required packages and dependencies:
